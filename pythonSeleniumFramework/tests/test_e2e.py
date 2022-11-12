@@ -42,6 +42,9 @@ class TestE2E(BaseClass):
         print("Calin's changes4")
         print("Calin's changes5")
         print("Calin's changes6")
+        print("Calin's changes7")
+        print("Calin's changes8")
+        print("Calin's changes9")
 
 
     @pytest.fixture(params=TestData.test_data)
