@@ -52,3 +52,6 @@ class TradePage:
         assert original_message == original_confirmation
         return original_message
 
+    def get_logout_button(self):
+        pass
+
